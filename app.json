@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put your Subzero session-id here.",
       "required": true,
-      "value": ""
+      "value": "K3XK7FHY"
     },  
     
     "STICKER_NAME": {
